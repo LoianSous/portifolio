@@ -300,7 +300,7 @@ export function CharacterWindow() {
               desc: 'Desenvolvo interfaces modernas, rápidas e responsivas, entregando experiências web eficientes e intuitivas',
             },
             {
-              title: 'Skills Mastered',
+              title: 'Desenvolvo',
               value: 'Aplicação mobile',
               desc: 'Crio aplicativos leves, funcionais e otimizados para dispositivos móveis, garantindo alto desempenho e usabilidade.',
             },
